@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Swapnil Pawar 👋
+# Hi, I'm Swapnil Sanjay Pawar 👋
 
 ### Software Engineer | Full-Stack Developer | AI Systems
 
