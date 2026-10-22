@@ -110,13 +110,32 @@ and products that solve real-world problems.
 > I'm happy to discuss their architecture and my contributions.
 
 
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=swapnilpawar-07&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=4)](https://github.com/swapnilpawar-07?tab=achievements)
+<a href="https://github.com/swapnilpawar-07?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" alt="Pull Shark"/>
+</a>
+<a href="https://github.com/swapnilpawar-07?tab=achievements">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="95" alt="Quickdraw"/>
+</a>
+<a href="https://github.com/swapnilpawar-07?tab=achievements">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="95" alt="YOLO"/>
+</a>
+<a href="https://github.com/swapnilpawar-07?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="95" alt="Pair Extraordinaire"/>
+</a>
+
+<br>
+
+**Pull Shark ×3 (Silver)** · **Quickdraw** · **YOLO** · **Pair Extraordinaire**
+
+[View All My GitHub Achievements](https://github.com/swapnilpawar-07?tab=achievements)
 
 </div>
+
 
 
 ## 🤝 Let's Connect
