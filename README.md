@@ -109,15 +109,15 @@ and products that solve real-world problems.
 > Some professional projects are proprietary.
 > I'm happy to discuss their architecture and my contributions.
 
-## 📊 GitHub Statistics
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swapnilpawar-07&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilpawar-07&layout=compact&hide_border=true&theme=transparent)
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=swapnilpawar-07&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=4)](https://github.com/swapnilpawar-07?tab=achievements)
 
 </div>
+
 
 ## 🤝 Let's Connect
 
